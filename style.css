@@ -87,6 +87,16 @@ h4{
 .item{
     padding-left: 200px;
 }
+.experience-item{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px rgb(243, 67, 67);
+    text-align: center;
+    background-image:linear-gradient(red, orange );
+}  
 .footer{
     background-color: black;
     width: 100%;
